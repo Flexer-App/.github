@@ -1,4 +1,4 @@
-![Banner](assets/Banner.png)
+![Banner](Banner.png)
 # About
 Flexer is a weight resistance tracker app that allows users to track and record their progress in weight resistance exercises. In addition to tracking their own progress, users can also see the progress of their peers, allowing them to compare and motivate each other. The app is designed to help users set and achieve their fitness goals by providing a convenient and user-friendly way to track and monitor their weight resistance training. 
 # Background
